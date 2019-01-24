@@ -1,0 +1,7 @@
+C:\Users\Ronad\source\repos\CircleAreaAndCirc\CircleAreaAndCirc\bin\Debug\CircleAreaAndCirc.exe.config
+C:\Users\Ronad\source\repos\CircleAreaAndCirc\CircleAreaAndCirc\bin\Debug\CircleAreaAndCirc.exe
+C:\Users\Ronad\source\repos\CircleAreaAndCirc\CircleAreaAndCirc\bin\Debug\CircleAreaAndCirc.pdb
+C:\Users\Ronad\source\repos\CircleAreaAndCirc\CircleAreaAndCirc\obj\Debug\CircleAreaAndCirc.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\CircleAreaAndCirc\CircleAreaAndCirc\obj\Debug\CircleAreaAndCirc.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\CircleAreaAndCirc\CircleAreaAndCirc\obj\Debug\CircleAreaAndCirc.exe
+C:\Users\Ronad\source\repos\CircleAreaAndCirc\CircleAreaAndCirc\obj\Debug\CircleAreaAndCirc.pdb

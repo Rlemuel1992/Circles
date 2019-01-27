@@ -19,7 +19,11 @@ namespace CircleAreaAndCirc
 			{
 				if (!(y > 0 || y >= 9))
 				{
+					z = true;
+					Console.WriteLine("Wrong");
 					Program.Main();
+					z = true;
+
 				}
 				else
 					z = false;
